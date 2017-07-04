@@ -1,7 +1,7 @@
 {
   "name": "seasnake-cli",
-  "version": "A cli wrapper for seasnake",
-  "description": "",
+  "version": "1.0.0",
+  "description": "A cli wrapper for seasnake",
   "main": "index.js",
   "scripts": {
     "start": "node index.babel.js"

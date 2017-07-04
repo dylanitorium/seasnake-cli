@@ -12,7 +12,7 @@ $ npm install -g seasnake-cli
 ### local
 
 ```bash
-$ npm install seasnake
+$ npm install seasnake-cli
 ```
 
 ## usage
