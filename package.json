@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.cwp.govt.nz/bamboo-build-tools/docker-volume-backups.git"
+    "url": "git@github.com:dylanitorium/seasnake-cli.git"
   },
   "bin": {
     "seasnake": "./index.babel.js"
